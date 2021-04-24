@@ -1,0 +1,4 @@
+HKEY_LOCAL_MACHINE \ SOFTWARE \ WOW6432Node \ Microsoft \ Microsoft SDKs \ Windows \ v10.0（更改InstallationFolder的数据）
+HKEY_LOCAL_MACHINE \ SOFTWARE \ WOW6432Node \ Microsoft \ Windows Kits \已安装Roots \（更改KitsRoot10的数据）
+HKEY_LOCAL_MACHINE \ SOFTWARE \ Microsoft \ Windows Kits \已安装Roots \（更改KitsRoot10的数据）
+HKEY_LOCAL_MACHINE \ SOFTWARE \ Microsoft \ Windows App Certification Kit \（更改InstallLocation的数据）
